@@ -1,8 +1,16 @@
+# Product Tracker — Backend
+
+This is the **backend API** for the Product Tracker App — built with **NestJS** and **TypeScript**.
+
+- **Frontend Repo:** [product-tracker-frontend](https://github.com/Shahzaibkhan-4/product-tracker-frontend)
+
+
+
 # Product Tracker Backend
 
 A NestJS backend for product management, orders, and user authentication with PostgreSQL.
 
-## 🚀 Development Setup
+##  Development Setup
 
 ### Test Accounts
 | Role | Email | Password |
